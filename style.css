@@ -1,0 +1,40 @@
+#cacacita
+{
+    background-color:rgb(44, 44, 44);
+}
+.L
+{
+    color:rgb(0, 76, 241);
+}
+#jeje
+{
+   color:rgb(0, 0, 0);
+   background-color:rgb(25, 206, 238);
+   height:50px;
+}
+.ura
+{
+   width:200px;
+   border-radius:100px; 
+}
+.speed
+{
+  float:right;
+}
+.volumen
+{
+  float:left;
+}
+.rat
+{
+   background-color:rgb(76, 116, 247); 
+   width:100px;
+   height:50;
+   border-radius:100px;
+}
+.tor
+{
+    color: rgb(0, 0, 0);
+    background-color: rgb(76, 116, 247);
+    border-radius:100px;
+}
